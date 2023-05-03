@@ -1,0 +1,27 @@
+/*Seccion About*/
+.titulo-sobre-nosotros {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sobre-nosotros-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align:center;
+
+    p {
+    font-size:18px;
+    line-height:1.5;  
+    }
+}
+
+.boton-contacto-about {
+    display:block;
+    margin:auto; 
+    padding:10px 20px; 
+    background-color:#e8ba0e; 
+    color:#fff; 
+    text-decoration:none; 
+    border-radius:5px; 
+}
